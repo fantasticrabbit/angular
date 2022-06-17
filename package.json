@@ -1,0 +1,32 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasticrabbit/angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasticrabbit/angular/issues"
+  },
+  "homepage": "https://github.com/fantasticrabbit/angular#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "bower": "1.8",
+    "db-migrate": "^0.11.13",
+    "mysql": "^2.12.0",
+    "node-dbi": "^0.7.1",
+    "percolator": "^1.5.0"
+  },
+  "devDependencies": {
+    "sqlite3": "^5.0.8",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.79.0"
+  }
+}
